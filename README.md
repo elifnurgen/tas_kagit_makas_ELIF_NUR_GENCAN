@@ -4,7 +4,7 @@ Bu proje 3 hafta süren 10million.ai, Global Hub ve Aygaz ortaklığında yapıl
 ## Proje ile ilgili detaylar:
 
 ### Proje yapımında kullanılan program:
-PyCharm 2021.3.2 (Community Edition)
+PyCharm 2021.3.2
 
 ### Projede kullanılan yazılım dili:
 Python
